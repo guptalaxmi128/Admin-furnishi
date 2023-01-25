@@ -30,6 +30,7 @@ export default function Router() {
       ],
     },
     {
+      
       path: 'factory-manager',
       element: <LoginPage />,
     },
